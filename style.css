@@ -1,0 +1,75 @@
+html,
+body {
+    text-align: center;
+    display: table-cell;
+    height: 100vh;
+    width: 100vw;
+    vertical-align: middle;
+}
+
+a{
+    text-decoration: underline .1px;
+}
+
+
+footer {
+    position: fixed;
+    margin-bottom: 5vh;
+    bottom: 0;
+    text-align: center;
+    width: 100vw;
+}
+
+html.color-scheme-1 {
+    background-color: #B4C38D;
+    color: black;
+}
+
+html.color-scheme-1 a {
+    color: black;
+}
+
+html.color-scheme-2 {
+    background-color: #FFFEFA;
+    color: black;
+}
+
+html.color-scheme-2 a {
+    color: black;
+}
+
+html.color-scheme-3 {
+    background-color: #A82319;
+    color: #E97251;
+}
+
+html.color-scheme-3 a {
+    color: #E97251;
+}
+
+html.color-scheme-4 {
+    background-color: black;
+    color: #4D44B3;
+}
+
+html.color-scheme-4 a {
+    color: #4D44B3;
+}
+
+html.color-scheme-5 {
+    background-color: #F8F7F9;
+    color: #AFFF3F;
+}
+
+html.color-scheme-5 a {
+    color: #AFFF3F;
+}
+
+html.color-scheme-6 {
+    background-color: #01004C;
+    color: white;
+}
+
+html.color-scheme-6 a {
+    color: white;
+}
