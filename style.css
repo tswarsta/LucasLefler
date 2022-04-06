@@ -11,10 +11,11 @@ body {
 
 a{
     text-decoration: underline .1px;
-     cursor: crosshair;
 }
 
-
+a:link {
+    cursor: crosshair;
+}
 
 footer {
     position: fixed;
